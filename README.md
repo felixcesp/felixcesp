@@ -1,4 +1,4 @@
-## Hi 👋 I'm Felix Cespedes <img alt="GIF" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="40vw"/>
+## Hi 👋 I'm Felix Cespedes <img alt="GIF" src="https://static.wixstatic.com/media/97b295_3349dbcd7e284899be41466def110e11~mv2.gif"/>
 
 
  ## About me 
