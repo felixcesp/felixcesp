@@ -1,4 +1,8 @@
-# Hi 👋 I'm Felix Cespedes 
+## Hi 👋 I'm Felix Cespedes <img alt="GIF" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="20vw" />
+
+
+ ## About me 
+ 
 - 🔭 I’m currently working as frontend web developer
 - 🌱 I’m currently learning frontend programming
 - 🤔 I’m looking for help with my practicies
