@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hi 👋 I'm Felix Cespedes ![image](https://user-images.githubusercontent.com/92003140/213583606-26b73972-4bfc-4cec-a49e-027a1d9354e3.png) 
 - 🔭 I’m currently working as frontend web developer
 - 🌱 I’m currently learning frontend programming
 - 🤔 I’m looking for help with my practicies
