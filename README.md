@@ -33,15 +33,6 @@
 
 
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats"> </summary>  
-   <Marquee className='textomove' speed={'70'} gradientColor={'false'}>
-            {tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}{tab}
-            {tab}{tab} Welcome Evaluator, this is a fantastic experiencie, for you and 
-            us to keep a register of Github user repositories, please sail into App and you will find 
-            everything you need ..ENJOY IT.
-           </Marquee>
-
-
-
 <!--
 **felixcesp/felixcesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
