@@ -31,16 +31,9 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-<details open>
+
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats"> </summary>  
-<br>
- 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SaraBermudez4&theme=dracula&show_icons=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=felixcesp4&theme=dracula&line_height=25&langs_count=3">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=felixcesp4&theme=dracula&locale=es&date_format=[Y.]n.j">
-</p>
-</details>
+
 
 
 <!--
